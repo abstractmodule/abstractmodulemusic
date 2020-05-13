@@ -7,16 +7,20 @@ body {
 a {
 	background-color: #000000;
 	color: #ffffff;
+	
 }
 
 h1 {
 	color: #ffffff;
+	text-align: center;
 }
 
 h2 {
 	color: #ffffff;
+	text-align: center;
 }
 
 p {
 	color: #ffffff;
+	text-align: center;
 }
