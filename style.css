@@ -2,22 +2,24 @@ body {
 	background-color: #000000;
 	color: #ffffff;
 	font-family: Arial;
+	text-align: center;
 }
 
 a {
 	background-color: #000000;
 	color: #ffffff;
 	text-align: center;
-	
 }
 
 h1 {
 	color: #ffffff;
+	font-size: large;
 	text-align: center;
 }
 
 h2 {
 	color: #ffffff;
+	font-size: medium;
 	text-align: center;
 }
 
