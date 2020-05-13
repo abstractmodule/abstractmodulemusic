@@ -1,12 +1,19 @@
 body {
-  background_color: black;
-}
-
-
-
-
-.center {
+	background-color: #000000;
+	color: #ffffff;
+	font-family: Arial;
   text-align: center;
-  color: white;
 }
 
+a {
+	background-color: #000000;
+  color: #ffffff;
+}
+
+h1 {
+	color: #ffffff;
+}
+
+h2 {
+	color: #ffffff;
+}
